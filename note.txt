@@ -1,0 +1,4 @@
+- Quick open settings (current open from activity)
+- Clean setting page
+- Update logo, readme,author
+- Migrate from gitlens to gitlean
